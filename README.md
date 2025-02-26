@@ -45,7 +45,7 @@ The project follows these steps:
 - 💡 Average spending habits
 
 - Business Action: Introduce referral programs and seasonal discounts.
-###📜 Files in This Repository
+### 📜 Files in This Repository
 - customer_segmentation.ipynb – Jupyter Notebook for analysis
 - customer_segmentation.sql – SQL queries for storing and querying data
 - customer_data.xlsx – Original dataset
